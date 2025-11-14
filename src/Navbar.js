@@ -5,7 +5,7 @@ const Navbar = () => {
     <div className='overflow-hidden bg-oxford rounded-3xl flex justify-center'>
       <nav className='fixed w-full h-24 flex justify-between items-center p-4 bg-powder text-oxford font-bold z-50 shadow-md border-8 rounded-3xl border-oxford'>
         <div className='no-underline p-2 text-sm md:text-2xl font-monoton'>
-          OUTSTANDINGVICK
+          Victor Ogbonna
         </div>
 
         <div className='hidden md:flex space-x-4 font-stylish text-2xl pr-20'>
@@ -73,3 +73,4 @@ const Navbar = () => {
 };
 
 export default Navbar;
+
